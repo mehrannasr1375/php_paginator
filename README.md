@@ -3,10 +3,7 @@ A simple class for showing pagination links without loosing parameters on query 
 
 <br><br>
 
-REMEMBER:
-
-<br>
-
+**remember:**<br>
 This class does not contains any possibilities for data limitations!
 (like posts, products or whatever you want to paginate), it only creates pagination links and shows the pagination links in a nice html markup!
 
@@ -29,7 +26,7 @@ $paginator->showLinks();
  
 ?>`
 
-<br><br><br>
+<br><br>
 **requirements:**
 <br>
   bootstrap > 4.0
